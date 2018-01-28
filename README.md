@@ -1,2 +1,3 @@
 # Hello-World
-My first repository
+My first repository.
+I know a little bit about C++.
